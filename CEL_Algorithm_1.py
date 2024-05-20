@@ -1,4 +1,4 @@
-#This code is an integral part of the article "LIMA, J. D. de; SILVA, R. da R. da; DRANKA, G. G.; RIBEIRO, M. H. D. M.; SOUTHIER, L. F. Introducing Conditional Expected Loss: A Novel Metric for Risk Investment Analysis. The Engineering Economist, 2024".
+#This code is an integral part of the submetted article "LIMA, J. D. de; SILVA, R. da R. da; DRANKA, G. G.; RIBEIRO, M. H. D. M.; SOUTHIER, L. F. Introducing Conditional Expected Loss: A Novel Metric for Risk Investment Analysis. The Engineering Economist, 2024".
 
 #####################################################################
 # MCS (Monte Carlo Simulation)
